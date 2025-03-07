@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @tommyh2o
 - 👀 I’m interested in coding and game development.
-- 🌱 I’m currently studying OS.
-- 💞️ I’m looking to collaborate on nothing yet but soon.
 - 📫 How to reach me email tommyhuynh02n@gmail.com
